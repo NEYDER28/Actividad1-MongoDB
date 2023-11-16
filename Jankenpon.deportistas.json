@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "655453170f7ac45064abf9eb"
+  },
+  "numero_jugador": 1,
+  "nombre": "Michael Jordan",
+  "edad": 40,
+  "entrenador": "Gabriela Martinez",
+  "naccionalidad": "Usa"
+},
+{
+  "_id": {
+    "$oid": "655453170f7ac45064abf9ec"
+  },
+  "numero_jugador": 2,
+  "nombre": "Leonel Messi",
+  "edad": 37,
+  "entrenador": "Luis Gonzales",
+  "nacionalidad": "Argentina"
+},
+{
+  "_id": {
+    "$oid": "655453170f7ac45064abf9ed"
+  },
+  "numero_jugador": 3,
+  "nombre": "Lewis Hamilton",
+  "edad": 35,
+  "entrenador": "Toto Wolf",
+  "nacionalidad": "UK"
+},
+{
+  "_id": {
+    "$oid": "655453170f7ac45064abf9ee"
+  },
+  "numero_jugador": 4,
+  "nombre": "Lebron James",
+  "edad": 34,
+  "entrenador": "Ricardo Gómez",
+  "nacionalidad": "USA"
+},
+{
+  "_id": {
+    "$oid": "655453170f7ac45064abf9ef"
+  },
+  "numero_jugador": 5,
+  "nombre": "Sergio Pérez",
+  "edad": 34,
+  "entrenador": "Alejandro Morales",
+  "nacionalidad": "México"
+},
+{
+  "_id": {
+    "$oid": "655453170f7ac45064abf9f0"
+  },
+  "numero_jugador": 6,
+  "nombre": "Rafael Nadal",
+  "edad": 28,
+  "entrenador": "Carlos Fernandez",
+  "nacionalidad": "España"
+},
+{
+  "_id": {
+    "$oid": "65566a8e6cebe29e198b7188"
+  },
+  "numero_jugador": 7,
+  "nombre": "Cristiano Ronaldo",
+  "edad": 38,
+  "entrenador": "Daniela Maecha",
+  "nacionalidad": "Portugal"
+},
+{
+  "_id": {
+    "$oid": "65566a8e6cebe29e198b7189"
+  },
+  "numero_jugador": 8,
+  "nombre": "Kylian Mbape",
+  "edad": 25,
+  "entrenador": "Nicol Sanchez",
+  "nacionalidad": "Francia"
+}]

@@ -1,0 +1,64 @@
+[{
+  "_id": {
+    "$oid": "6554547d0f7ac45064abf9f7"
+  },
+  "nombre": "Gabriela Martinez",
+  "edad": 40,
+  "nacionalidad": "USA"
+},
+{
+  "_id": {
+    "$oid": "6554547d0f7ac45064abf9f8"
+  },
+  "nombre": "Luis Gonzales",
+  "edad": 37,
+  "nacionalidad": "Argentina"
+},
+{
+  "_id": {
+    "$oid": "6554547d0f7ac45064abf9f9"
+  },
+  "nombre": "Toto Wolf",
+  "edad": 36,
+  "nacionalidad": "UK"
+},
+{
+  "_id": {
+    "$oid": "6554547d0f7ac45064abf9fa"
+  },
+  "nombre": "Ricardo Gómez",
+  "edad": 31,
+  "nacionalidad": "USA"
+},
+{
+  "_id": {
+    "$oid": "6554547d0f7ac45064abf9fb"
+  },
+  "nombre": "Alejandro Morales",
+  "edad": 32,
+  "nacionalidad": "México"
+},
+{
+  "_id": {
+    "$oid": "6554547d0f7ac45064abf9fc"
+  },
+  "nombre": "Carlos Fernandez",
+  "edad": 34,
+  "nacionalidad": "España"
+},
+{
+  "_id": {
+    "$oid": "65566ae46cebe29e198b718c"
+  },
+  "nombre": "Daniela Maecha",
+  "edad": 46,
+  "nacionalidad": "Portugal"
+},
+{
+  "_id": {
+    "$oid": "65566ae46cebe29e198b718d"
+  },
+  "nombre": "Nicol Sanchez",
+  "edad": 49,
+  "nacionalidad": "Francia"
+}]

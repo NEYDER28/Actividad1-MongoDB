@@ -1,0 +1,216 @@
+[{
+  "_id": {
+    "$oid": "65567fbb6cebe29e198b7191"
+  },
+  "id_encuentro": 1,
+  "etapa": "Cuartos",
+  "fecha": "2023-10-01",
+  "ciudad_encuentro": "Toronto",
+  "arbirto": "Mateo García",
+  "contrincantes": [
+    "Michael Jordan",
+    "leonel Messi"
+  ],
+  "marcador": [
+    1,
+    2
+  ]
+},
+{
+  "_id": {
+    "$oid": "65567fbb6cebe29e198b7192"
+  },
+  "id_encuentro": 2,
+  "etapa": "Cuartos",
+  "fecha": "2023-10-01",
+  "ciudad_encuentro": "Toronto",
+  "arbirto": "Mateo García",
+  "contrincantes": [
+    "Lewis Hamilton",
+    "Lebron James"
+  ],
+  "marcador": [
+    2,
+    1
+  ]
+},
+{
+  "_id": {
+    "$oid": "65567fbb6cebe29e198b7193"
+  },
+  "id_encuentro": 3,
+  "etapa": "Cuartos",
+  "fecha": "2023-10-01",
+  "ciudad_encuentro": "Toronto",
+  "arbirto": "Mateo García",
+  "contrincantes": [
+    "Sergio Pérez",
+    "Rafael Nadal"
+  ],
+  "marcador": [
+    3,
+    0
+  ]
+},
+{
+  "_id": {
+    "$oid": "65567fbb6cebe29e198b7194"
+  },
+  "id_encuentro": 4,
+  "etapa": "Cuartos",
+  "fecha": "2023-10-01",
+  "ciudad_encuentro": "Toronto",
+  "arbirto": "Mateo García",
+  "contrincantes": [
+    "Cristiano Ronaldo",
+    "Kylian Mbape"
+  ],
+  "marcador": [
+    3,
+    0
+  ]
+},
+{
+  "_id": {
+    "$oid": "65567fbb6cebe29e198b7195"
+  },
+  "id_encuentro": 5,
+  "etapa": "Semifinal",
+  "fecha": "2023-10-02",
+  "ciudad_encuentro": "Montreal",
+  "arbirto": "Mateo García",
+  "contrincantes": [
+    "Leonel Messi",
+    "Lewis Hamilton"
+  ],
+  "marcador": [
+    1,
+    2
+  ]
+},
+{
+  "_id": {
+    "$oid": "65567fbb6cebe29e198b7196"
+  },
+  "id_encuentro": 6,
+  "etapa": "Semifinal",
+  "fecha": "2023-10-02",
+  "ciudad_encuentro": "Montreal",
+  "arbirto": "Mateo García",
+  "contrincantes": [
+    "Sergio Pérez",
+    "Cristiano Ronaldo"
+  ],
+  "marcador": [
+    2,
+    1
+  ]
+},
+{
+  "_id": {
+    "$oid": "65567fbb6cebe29e198b7197"
+  },
+  "id_encuentro": 7,
+  "etapa": "Final",
+  "fecha": "2023-10-03",
+  "ciudad_encuentro": "Ottawa",
+  "arbirto": "Mateo García",
+  "contrincantes": [
+    "Lewis Hamilton",
+    "Sergio Pérez"
+  ],
+  "marcador": [
+    0,
+    3
+  ]
+},
+{
+  "_id": {
+    "$oid": "65567fbb6cebe29e198b7198"
+  },
+  "id_encuentro": 8,
+  "etapa": "Tercer puesto",
+  "fecha": "2023-10-04",
+  "ciudad_encuentro": "Winnipeg",
+  "arbirto": "Mateo García",
+  "contrincantes": [
+    "Leonel Messi",
+    "Cristiano Ronaldo"
+  ],
+  "marcador": [
+    2,
+    1
+  ]
+},
+{
+  "_id": {
+    "$oid": "65567fbb6cebe29e198b7199"
+  },
+  "id_encuentro": 9,
+  "etapa": "Ultimos 4",
+  "fecha": "2023-10-04",
+  "ciudad_encuentro": "Winnipeg",
+  "arbirto": "Mateo García",
+  "contrincantes": [
+    "Michael Jordan",
+    "lerbon James"
+  ],
+  "marcador": [
+    1,
+    2
+  ]
+},
+{
+  "_id": {
+    "$oid": "65567fbb6cebe29e198b719a"
+  },
+  "id_encuentro": 10,
+  "etapa": "Ultimos 4",
+  "fecha": "2023-10-04",
+  "ciudad_encuentro": "Winnipeg",
+  "arbirto": "Mateo García",
+  "contrincantes": [
+    "Rafael Nadal",
+    "Kylian Mbape"
+  ],
+  "marcador": [
+    3,
+    0
+  ]
+},
+{
+  "_id": {
+    "$oid": "65567fbb6cebe29e198b719b"
+  },
+  "id_encuentro": 11,
+  "etapa": "Quinto y sexto",
+  "fecha": "2023-10-04",
+  "ciudad_encuentro": "Winnipeg",
+  "arbirto": "Mateo García",
+  "contrincantes": [
+    "Rafael Nadal",
+    "Lebrón James"
+  ],
+  "marcador": [
+    2,
+    1
+  ]
+},
+{
+  "_id": {
+    "$oid": "65567fbb6cebe29e198b719c"
+  },
+  "id_encuentro": 12,
+  "etapa": "Septimo y octavo",
+  "fecha": "2023-10-04",
+  "ciudad_encuentro": "Winnipeg",
+  "arbirto": "Mateo García",
+  "contrincantes": [
+    "Michael Jordan",
+    "Kylian Mbape"
+  ],
+  "marcador": [
+    1,
+    2
+  ]
+}]
