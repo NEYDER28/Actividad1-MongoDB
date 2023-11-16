@@ -1,0 +1,312 @@
+[{
+  "_id": {
+    "$oid": "655691b06cebe29e198b71a2"
+  },
+  "#_encuentro": 1,
+  "contrincantes": [
+    "Michael Jordan",
+    "Leonel Messi"
+  ],
+  "jugada_1": [
+    "piedra",
+    "papel"
+  ],
+  "jugada_2": [
+    "papel",
+    "peidra"
+  ],
+  "jugada_3": [
+    "papel",
+    "tijera"
+  ],
+  "Marcador": [
+    1,
+    2
+  ]
+},
+{
+  "_id": {
+    "$oid": "655691b06cebe29e198b71a3"
+  },
+  "#_encuentro": 2,
+  "contrincantes": [
+    "Lewis Hamilton",
+    "Lebron James"
+  ],
+  "jugada_1": [
+    "piedra",
+    "papel"
+  ],
+  "jugada_2": [
+    "tijera",
+    "papel"
+  ],
+  "jugada_3": [
+    "tijera",
+    "papel"
+  ],
+  "Marcador": [
+    2,
+    1
+  ]
+},
+{
+  "_id": {
+    "$oid": "655691b06cebe29e198b71a4"
+  },
+  "#_encuentro": 3,
+  "contrincantes": [
+    "Sergio Pérez",
+    "Rafael Nadal"
+  ],
+  "jugada_1": [
+    "tijera",
+    "papel"
+  ],
+  "jugada_2": [
+    "tijera",
+    "Papel"
+  ],
+  "jugada_3": [
+    "piedra",
+    "tijera"
+  ],
+  "Marcador": [
+    3,
+    0
+  ]
+},
+{
+  "_id": {
+    "$oid": "655691b06cebe29e198b71a5"
+  },
+  "#_encuentro": 4,
+  "contrincantes": [
+    "Crisitiano Ronaldo",
+    "Kylian Mbape"
+  ],
+  "jugada_1": [
+    "tijera",
+    "papel"
+  ],
+  "jugada_2": [
+    "papel",
+    "piedra"
+  ],
+  "jugada_3": [
+    "papel",
+    "Piedra"
+  ],
+  "Marcador": [
+    3,
+    0
+  ]
+},
+{
+  "_id": {
+    "$oid": "655691b06cebe29e198b71a6"
+  },
+  "#_encuentro": 5,
+  "contrincantes": [
+    "Leonel Messi",
+    "Lewis Hamilton"
+  ],
+  "jugada_1": [
+    "piedr",
+    "tijera"
+  ],
+  "jugada_2": [
+    "papel",
+    "tijera"
+  ],
+  "jugada_3": [
+    "piedra",
+    "papel"
+  ],
+  "Marcador": [
+    1,
+    2
+  ]
+},
+{
+  "_id": {
+    "$oid": "655691b06cebe29e198b71a7"
+  },
+  "#_encuentro": 6,
+  "contrincantes": [
+    "Sergio Pérez",
+    "Cristiano Ronaldo"
+  ],
+  "jugada_1": [
+    "tijera",
+    "papel"
+  ],
+  "jugada_2": [
+    "tijera",
+    "papel"
+  ],
+  "jugada_3": [
+    "piedra",
+    "papel"
+  ],
+  "Marcador": [
+    2,
+    1
+  ]
+},
+{
+  "_id": {
+    "$oid": "655691b06cebe29e198b71a8"
+  },
+  "#_encuentro": 7,
+  "contrincantes": [
+    "Lewis Hamiltol",
+    "Sergio Pérez"
+  ],
+  "jugada_1": [
+    "tijera",
+    "piedra"
+  ],
+  "jugada_2": [
+    "tijera",
+    "piedra"
+  ],
+  "jugada_3": [
+    "Piedra",
+    "papel"
+  ],
+  "Marcador": [
+    0,
+    3
+  ]
+},
+{
+  "_id": {
+    "$oid": "655691b06cebe29e198b71a9"
+  },
+  "#_encuentro": 8,
+  "contrincantes": [
+    "Leonel Messi",
+    "Cristiano Ronaldo"
+  ],
+  "jugada_1": [
+    "tijera",
+    "papel"
+  ],
+  "jugada_2": [
+    "tijera",
+    "papel"
+  ],
+  "jugada_3": [
+    "piedra",
+    "papel"
+  ],
+  "Marcador": [
+    2,
+    1
+  ]
+},
+{
+  "_id": {
+    "$oid": "655691b06cebe29e198b71aa"
+  },
+  "#_encuentro": 9,
+  "contrincantes": [
+    "Michael Jordan",
+    "Lebron James"
+  ],
+  "jugada_1": [
+    "tijera",
+    "piedra"
+  ],
+  "jugada_2": [
+    "piedra",
+    "tijera"
+  ],
+  "jugada_3": [
+    "tijera",
+    "piedra"
+  ],
+  "Marcador": [
+    1,
+    2
+  ]
+},
+{
+  "_id": {
+    "$oid": "655691b06cebe29e198b71ab"
+  },
+  "#_encuentro": 10,
+  "contrincantes": [
+    "Rafael Nadal",
+    "kylian Mbape"
+  ],
+  "jugada_1": [
+    "tijera",
+    "papel"
+  ],
+  "jugada_2": [
+    "papel",
+    "piedra"
+  ],
+  "jugada_3": [
+    "papel",
+    "piedra"
+  ],
+  "Marcador": [
+    3,
+    0
+  ]
+},
+{
+  "_id": {
+    "$oid": "655691b06cebe29e198b71ac"
+  },
+  "#_encuentro": 11,
+  "contrincantes": [
+    "Rafael Nadal",
+    "Lebron James"
+  ],
+  "jugada_1": [
+    "tijera",
+    "papel"
+  ],
+  "jugada_2": [
+    "piedra",
+    "papel"
+  ],
+  "jugada_3": [
+    "tijera",
+    "papel"
+  ],
+  "Marcador": [
+    2,
+    1
+  ]
+},
+{
+  "_id": {
+    "$oid": "655691b06cebe29e198b71ad"
+  },
+  "#_encuentro": 12,
+  "contrincantes": [
+    "Michael Jordan",
+    "Kylian Mbape"
+  ],
+  "jugada_1": [
+    "piedra",
+    "papel"
+  ],
+  "jugada_2": [
+    "piedra",
+    "papel"
+  ],
+  "jugada_3": [
+    "papel",
+    "piedra"
+  ],
+  "Marcador": [
+    1,
+    2
+  ]
+}]

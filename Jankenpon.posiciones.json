@@ -1,0 +1,56 @@
+[{
+  "_id": {
+    "$oid": "655693216cebe29e198b71b0"
+  },
+  "competidor": "Sergio Pérez",
+  "posicion": "Primero"
+},
+{
+  "_id": {
+    "$oid": "655693216cebe29e198b71b1"
+  },
+  "competidor": "Lewis Hamilton",
+  "posicion": "Segundo"
+},
+{
+  "_id": {
+    "$oid": "655693216cebe29e198b71b2"
+  },
+  "competidor": "Leonel Messi",
+  "posicion": "Tercero"
+},
+{
+  "_id": {
+    "$oid": "655693216cebe29e198b71b3"
+  },
+  "competidor": "Cristiano Ronaldo",
+  "posicion": "Cuarto"
+},
+{
+  "_id": {
+    "$oid": "655693216cebe29e198b71b4"
+  },
+  "competidor": "Rafael Nadal",
+  "posicion": "Quinto"
+},
+{
+  "_id": {
+    "$oid": "655693216cebe29e198b71b5"
+  },
+  "competidor": "Lebron James",
+  "posicion": "Sexto"
+},
+{
+  "_id": {
+    "$oid": "655693216cebe29e198b71b6"
+  },
+  "competidor": "Kylian Mbape",
+  "posicion": "Septimo"
+},
+{
+  "_id": {
+    "$oid": "655693216cebe29e198b71b7"
+  },
+  "competidor": "Michael Jordan",
+  "posicion": "Octavo"
+}]

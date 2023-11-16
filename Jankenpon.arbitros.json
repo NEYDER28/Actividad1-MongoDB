@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "655456050f7ac45064abfa01"
+  },
+  "nombre": "Mateo García",
+  "edad": 23,
+  "nacionalidad": "Peruano"
+},
+{
+  "_id": {
+    "$oid": "655456050f7ac45064abfa02"
+  },
+  "nombre": "Rodolfo Hernandez",
+  "edad": 27,
+  "nacionalidad": "Colombiano"
+},
+{
+  "_id": {
+    "$oid": "655456050f7ac45064abfa03"
+  },
+  "nombre": "Julio Morales",
+  "edad": 28,
+  "nacionalidad": "Mexicano"
+},
+{
+  "_id": {
+    "$oid": "655456050f7ac45064abfa04"
+  },
+  "nombre": "Maria López",
+  "edad": 30,
+  "nacionalidad": "Chilena"
+},
+{
+  "_id": {
+    "$oid": "655456050f7ac45064abfa05"
+  },
+  "nombre": "Camila rojas",
+  "edad": 34,
+  "nacionalidad": "Ecuatoriana"
+}]
